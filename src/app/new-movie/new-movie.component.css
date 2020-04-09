@@ -1,0 +1,17 @@
+.container {
+  width: max-content;
+}
+.movie-form{
+  font-size: medium;
+}
+.success{
+  background-color: lightgreen;
+  color: darkgreen;
+  padding: 2%;
+}
+
+.fail {
+  background-color: pink;
+  color: darkred;
+  padding: 2%;
+}
